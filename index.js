@@ -7,3 +7,7 @@
 // this is fourth commit
 
 //this is fith comment for test merge delete
+
+//this is sixth commit
+
+//this is seventh commit 
