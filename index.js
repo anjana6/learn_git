@@ -1,13 +1,5 @@
 // this is the first file
 
-// now added the second commit 
+// added new comment to graph branch
 
-// this is theird commit 
-
-// this is fourth commit
-
-//this is fith comment for test merge delete
-
-//this is sixth commit
-
-//this is seventh commit 
+//added 3red comment again
